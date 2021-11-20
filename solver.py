@@ -6,8 +6,8 @@ from copy import deepcopy
 from time import time
 
 # --- Initial input: grid + houses ---
-grid_ref = read_grid("Grids/tektonik4.tkn")
-houses = read_houses("Grids/tektonik4.tkn")
+grid_ref = read_grid("Grids/tektonik7.tkn")
+houses = read_houses("Grids/tektonik7.tkn")
 
 # --- Solver ---
 # This program uses a backtracking algorithm
